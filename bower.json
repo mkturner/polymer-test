@@ -1,0 +1,22 @@
+{
+  "name": "polymer-test",
+  "version": "0.0.0",
+  "authors": [
+    "Marvin T <contact@marvinkturner.com>"
+  ],
+  "description": "testing Google's new web framework",
+  "keywords": [
+    "polymer",
+    "web",
+    "html"
+  ],
+  "license": "MIT",
+  "homepage": "http://marvinkturner.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
